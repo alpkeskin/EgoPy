@@ -5,10 +5,17 @@ Ego Cep'te uygulaması artık Python'da
 
 ## Çalıştırmadan önce :
 ```
-pip3 install beautifulsoup4
-pip3 install requests
-pip3 install prettytable
-pip3 install json
+pip3 install -r requirements.txt
+```
+
+## Kullanım :
+```
+KULLANIM: python ego.py [SEÇENEKLER]
+
+		SEÇENEKLER:
+     --kartsorgu, -k\t\tVerilen kart numarasının bakiyesini yazdır ve çık
+	 --durak, -d\t\t\tVerilen durakğa yakalşan otobüsleri listele ve çık
+	 --hat, -ht\t\t\tVerilen hattın bilgilerini yazdır ve çık
 ```
 ## Terminal :
 
