@@ -36,7 +36,7 @@ KULLANIM: docker run -it calganaygun/egopy [SEÇENEKLER]
 	 --durak, -d\t\t\tVerilen durakğa yakalşan otobüsleri listele ve çık
 	 --hat, -ht\t\t\tVerilen hattın bilgilerini yazdır ve çık
 ```
-## Terminal :
+## Ekran :
 
-[![asciicast](https://asciinema.org/a/rjOAcF9vvHDamToVAYKiKo6uS.svg)](https://asciinema.org/a/rjOAcF9vvHDamToVAYKiKo6uS)
+![Ego Py](https://raw.githubusercontent.com/alpkeskin/EgoPy/main/EgoPySS.png)
 
